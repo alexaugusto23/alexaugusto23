@@ -3,10 +3,12 @@
 - 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
 
 ## Redes Sociais
-[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){:target="_blank"}
-[Instagram](https://www.instagram.com/alexsandroaugustoignacio/){:target="_blank"}
-[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio){:target="_blank"} 
-[Stackoverflow]()
+[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){:target="_blank" rel="noopener"} 
+[Instagram](https://www.instagram.com/alexsandroaugustoignacio/){{:target="_blank" rel="noopener"} 
+[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio){:target="_blank" rel="noopener"} 
+[Stack Overflow]()
+
+
 <!--
 **alexaugusto23/alexaugusto23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
