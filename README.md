@@ -2,6 +2,10 @@
 
 - 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
 
+[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/)
+[Instagram](https://www.instagram.com/alexsandroaugustoignacio/)
+[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio)
+
 
 <!--
 **alexaugusto23/alexaugusto23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
