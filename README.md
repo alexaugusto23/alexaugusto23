@@ -1,6 +1,12 @@
 ## Olá eu sou Alexsandro Augusto  👋
 
-- 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
+<details>
+  <sumary><br> Sobre mim! <br> <i>(Click para saber mais:)</i></sumary>
+  <br>
+  - 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
+</details>
+
+
 
 ## Redes Sociais
 [Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){:target="_blank" rel="noopener"} 
