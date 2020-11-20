@@ -1,11 +1,18 @@
-## Olá eu sou Alexsandro Augusto  👋
+# Olá eu sou Alexsandro Augusto  👋
 
-<details>
-  <sumary><b> Sobre mim! </b> <i>(Click para saber mais:)</i></sumary>
-  <br>
-  - 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
-</details>
+## Sobre mim!
 
+-  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
+-  🌱 Adoro poder contribuir com a comunidade e meus colegas. 
+-   Eu acredito que vamos 
+- adas
+- asdsa
+- sdsa
+- 
+
+## Estatísticas
+
+![Alexsandro Augusto Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=radical)
 
 
 ## Redes Sociais
