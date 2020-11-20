@@ -1,12 +1,12 @@
-## Olá eu sou Alexsandro  👋
+## Olá eu sou Alexsandro Augusto  👋
 
 - 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
 
-[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/)
-[Instagram](https://www.instagram.com/alexsandroaugustoignacio/)
-[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio)
-
-
+## Redes Sociais
+[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){:target="_blank"}
+[Instagram](https://www.instagram.com/alexsandroaugustoignacio/){:target="_blank"}
+[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio){:target="_blank"} 
+[Stackoverflow]()
 <!--
 **alexaugusto23/alexaugusto23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
