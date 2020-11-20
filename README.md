@@ -12,7 +12,7 @@
 
 ## Estatísticas
 
-![Alexsandro Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=cobalt)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=gruvbox)
 
 
 ## Redes Sociais
