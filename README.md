@@ -1,7 +1,7 @@
 ## Olá eu sou Alexsandro Augusto  👋
 
 <details>
-  <sumary><br> Sobre mim! <br> <i>(Click para saber mais:)</i></sumary>
+  <sumary><b> Sobre mim! </b> <i>(Click para saber mais:)</i></sumary>
   <br>
   - 🌱 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
 </details>
