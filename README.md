@@ -12,8 +12,11 @@
 
 ## Estatísticas
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=gruvbox)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=vue)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexaugusto23&repo=github-readme-stats)](https://github.com/alexaugusto23/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23&layout=compact)](https://github.com/alexaugusto23/github-readme-stats)
 
 ## Redes Sociais
 [Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){:target="_blank" rel="noopener"} 
