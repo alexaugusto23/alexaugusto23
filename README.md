@@ -1,14 +1,14 @@
-# Olá eu sou Alexsandro Augusto  👋
+# Olá eu sou Alexsandro 👋
 
 ## Sobre mim!
 
 -  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
--  🌱 Adoro poder contribuir com a comunidade e meus colegas. 
--   Eu acredito que vamos 
-- adas
-- asdsa
-- sdsa
-- 
+-  🌱 Eu adoro poder contribuir com a comunidade e meus colegas. 
+-  ⚽ Em meu tempo livre gosto de jogar video game 🕹️, fazer exercícios 💪 e estudar 🧑🏻‍🏫.
+-  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
+-  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
+
+## Tecnologias e Ferramentas
 
 ## Estatísticas
 
@@ -17,24 +17,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23&langs_count=20)](https://github.com/alexaugusto23/github-readme-stats)
 
 ## Redes Sociais
-[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){{:target="_blank" rel="noopener"}} 
-[Instagram](https://www.instagram.com/alexsandroaugustoignacio/){{:target="_blank" rel="noopener"}} 
-[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio){{:target="_blank" rel="noopener"}} 
+[Linkedin](<https://www.linkedin.com/in/alexsandroaugusto/>)
+[Instagram](https://www.instagram.com/alexsandroaugustoignacio/)
+[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio)
 [Stack Overflow]()
 
 
-<!--
-**alexaugusto23/alexaugusto23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
