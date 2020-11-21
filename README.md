@@ -18,7 +18,7 @@
 
 ## Redes Sociais
 <br>
-<div class="container">
+<div style="display:block">
   <a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
 
   <a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
