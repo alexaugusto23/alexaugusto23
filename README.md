@@ -21,6 +21,3 @@
 [Instagram](https://www.instagram.com/alexsandroaugustoignacio/)
 [Facebook](https://www.facebook.com/alexsandroaugusto.ignacio)
 [Stack Overflow]()
-
-
-
