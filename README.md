@@ -21,4 +21,4 @@
 [Instagram](https://www.instagram.com/alexsandroaugustoignacio/)
 [Facebook](https://www.facebook.com/alexsandroaugusto.ignacio)
 [Stack Overflow]()
-<a href="https://www.linkedin.com/in/alexsandroaugusto/"><img style="margin-left: 100;" src="" alt="adicionar"></a>
+<a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
