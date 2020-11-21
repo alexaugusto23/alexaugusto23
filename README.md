@@ -12,16 +12,16 @@
 
 ## Estatísticas
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=vue)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexaugusto23&repo=github-readme-stats)](https://github.com/alexaugusto23/github-readme-stats)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23)](https://github.com/alexaugusto23/github-readme-stats)
 
 ## Redes Sociais
-[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){:target="_blank" rel="noopener"} 
-[Instagram](https://www.instagram.com/alexsandroaugustoignacio/){{:target="_blank" rel="noopener"} 
-[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio){:target="_blank" rel="noopener"} 
+[Linkedin](https://www.linkedin.com/in/alexsandroaugusto/){{:target="_blank" rel="noopener"}} 
+[Instagram](https://www.instagram.com/alexsandroaugustoignacio/){{:target="_blank" rel="noopener"}} 
+[Facebook](https://www.facebook.com/alexsandroaugusto.ignacio){{:target="_blank" rel="noopener"}} 
 [Stack Overflow]()
 
 
