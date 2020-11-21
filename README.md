@@ -18,26 +18,9 @@
 
 ## Redes Sociais
 <br>
-<html>
-  <head>
-    <style>
-    .myDiv {
-      border: 5px outset red;
-      background-color: lightblue;
-      text-align: center;
-    }
-    </style>
-  </head>
 
-  <body>
-    <div class="div">
-      
-      <a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="align-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
 
-      <a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
+<a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="align-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
 
-      <a href="https://www.facebook.com/alexsandroaugusto.ignacio " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png"></a>
-    
-    </div>
-  </body>
-</html>
+<a href="https://www.facebook.com/alexsandroaugusto.ignacio " target="_blank"><img style="align-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png"></a>
