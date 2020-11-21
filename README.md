@@ -22,7 +22,8 @@
   .div{
     display: inline-block
   }
-  
+</style>
+
 <div class="div">
   <a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
 
