@@ -8,7 +8,7 @@
 -  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
 -  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
 
-## Tecnologias e Ferramentas
+<!-- ## Tecnologias e Ferramentas -->
 
 ## Estatísticas
 
@@ -18,9 +18,10 @@
 
 ## Redes Sociais
 <br>
+<div class="conatiner">
+  <a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
 
-<a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
+  <a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
 
-<a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
-
-<a href="https://www.facebook.com/alexsandroaugusto.ignacio " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png"></a>
+  <a href="https://www.facebook.com/alexsandroaugusto.ignacio " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png"></a>
+</div>
