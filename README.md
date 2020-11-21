@@ -18,16 +18,26 @@
 
 ## Redes Sociais
 <br>
-<style>
-  .div{
-    display: inline-block;
-  }
-</style>
+<html>
+  <head>
+    <style>
+    .myDiv {
+      border: 5px outset red;
+      background-color: lightblue;
+      text-align: center;
+    }
+    </style>
+  </head>
 
-<div class="div">
-  <a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
+  <body>
+    <div class="div">
+      
+      <a href="https://www.linkedin.com/in/alexsandroaugusto/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png"></a>
 
-  <a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
+      <a href="https://www.instagram.com/alexsandroaugustoignacio/ " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png"></a>
 
-  <a href="https://www.facebook.com/alexsandroaugusto.ignacio " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png"></a>
-</div>
+      <a href="https://www.facebook.com/alexsandroaugusto.ignacio " target="_blank"><img style="margin-left: 100;" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png"></a>
+    
+    </div>
+  </body>
+</html>
