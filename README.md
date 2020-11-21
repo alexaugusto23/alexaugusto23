@@ -17,13 +17,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23&langs_count=20)](https://github.com/alexaugusto23/github-readme-stats)
 
 ## Redes Sociais
-<br>
 
-[<img align="left" alt="linkedin" width="30px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png/">][linkedin]
+[<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png/">][linkedin]
 
-[<img align="left" alt="instagram" width="30px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png/">][instagram]
+[<img align="left" alt="instagram" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png/">][instagram]
 
-[<img align="left" alt="facebook" width="30px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png/">][facebook]
+[<img align="left" alt="facebook" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png/">][facebook]
 
 [linkedin]:  https://www.linkedin.com/in/alexsandroaugusto/
 [instagram]: https://www.instagram.com/alexsandroaugustoignacio/
