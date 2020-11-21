@@ -19,11 +19,11 @@
 ## Redes Sociais
 <br>
 
-[<img align="left" alt="linkedin" width="22px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png">][linkedin]
+[<img align="left" alt="linkedin" width="30px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png/">][linkedin]
 
-[<img align="left" alt="instagram" width="22px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png">][instagram]
+[<img align="left" alt="instagram" width="30px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/instagram.png/">][instagram]
 
-[<img align="left" alt="facebook" width="22px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png">][facebook]
+[<img align="left" alt="facebook" width="30px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png/">][facebook]
 
 [linkedin]:  https://www.linkedin.com/in/alexsandroaugusto/
 [instagram]: https://www.instagram.com/alexsandroaugustoignacio/
