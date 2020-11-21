@@ -17,7 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23&langs_count=20)](https://github.com/alexaugusto23/github-readme-stats)
 
 ## Redes Sociais
-[Linkedin](<https://www.linkedin.com/in/alexsandroaugusto/>)
+[Linkedin]()
 [Instagram](https://www.instagram.com/alexsandroaugustoignacio/)
 [Facebook](https://www.facebook.com/alexsandroaugusto.ignacio)
 [Stack Overflow]()
+<a href="https://www.linkedin.com/in/alexsandroaugusto/"><img style="margin-left: 100;" src="" alt="adicionar"></a>
