@@ -20,7 +20,7 @@
 <br>
 <style>
   .div{
-    display: inline-block
+    display: inline-block;
   }
 </style>
 
