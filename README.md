@@ -14,7 +14,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23&langs_count=20)](https://github.com/alexaugusto23/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexaugusto23&langs_count=30)](https://github.com/alexaugusto23/github-readme-stats)
 
 ## Redes Sociais
 
