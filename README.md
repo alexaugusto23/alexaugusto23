@@ -10,7 +10,7 @@
 
 ## Tecnologias e Ferramentas
 
-[<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png/">]
+[<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/programming.png">]
 
 ## Estatísticas
 
@@ -26,6 +26,8 @@
 
 [<img align="left" alt="facebook" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/facebook.png/">][facebook]
 
+
+<!-- Sites -->
 [linkedin]:  https://www.linkedin.com/in/alexsandroaugusto/
 [instagram]: https://www.instagram.com/alexsandroaugustoignacio/
 [facebook]:  https://www.facebook.com/alexsandroaugusto.ignacio/
