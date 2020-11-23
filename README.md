@@ -8,7 +8,9 @@
 -  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
 -  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
 
-<!-- ## Tecnologias e Ferramentas -->
+## Tecnologias e Ferramentas
+
+[<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png/">]
 
 ## Estatísticas
 
