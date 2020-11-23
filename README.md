@@ -15,12 +15,19 @@
 ## Tecnologias e Ferramentas
 
 <img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/programming.png">
-
 <img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/python.png">
-
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/django.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/flask.png">
 <img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/csharp.png">
-
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/dotnet.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/html.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/css.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/bootstrap.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/postgresql.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/sql.png">
 <img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/java.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/javascript.png">
+<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/git.png">
 
 
 <br/>
