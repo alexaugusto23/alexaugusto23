@@ -1,13 +1,14 @@
 # Olá eu sou Alexsandro 👋
 
 ## Sobre mim!
-
+-  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e atualmente estou cursando Análise e desenvolvimento de sistemas pela Faulcade Impacta de Tecnologia.
+-  🎓 Estou em transição de carreira para TI, em Desenvolvimento Fullstack.
+-  💼   Estou buscando minha primeira vaga como Dev.
 -  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
 -  🌱 Eu adoro poder contribuir com a comunidade e meus colegas. 
 -  ⚽ Em meu tempo livre gosto de jogar video game 🕹️, fazer exercícios 💪 e estudar 🧑🏻‍🏫.
 -  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
 -  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
-
 
 <br/>
 
