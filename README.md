@@ -2,20 +2,26 @@
 
 ## Sobre mim! | About me
 -  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e atualmente estou cursando Análise e desenvolvimento de sistemas pela Faulcade Impacta de Tecnologia.
--     I am graduated in Administration with an MBA in strategic business management from FGV and I am currently studying Analysis and systems development by Faulcade Impacta de Tecnologia.
+-  I am graduated in Administration with an MBA in strategic business management from FGV and I am currently studying Analysis and systems development by Faulcade Impacta de Tecnologia.
 -  🎓 Estou em transição de carreira para TI, em Desenvolvimento Fullstack.
--      I'm in a career transition to IT, in Fullstack Development
+-  I'm in a career transition to IT, in Fullstack Development
 -  💼   Estou buscando minha primeira vaga como Dev.
+-  I'm looking for my first spot as Dev.
 -  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
+-  I am always learning something new related to technology.
 -  🌱 Eu adoro poder contribuir com a comunidade e meus colegas. 
+-  I love being able to contribute to the community and my colleagues.
 -  ⚽ Em meu tempo livre gosto de jogar video game 🕹️, fazer exercícios 💪 e estudar 🧑🏻‍🏫.
+-  In my free time I like to play video games ,️, exercise 💪 and study 🧑🏻‍🏫.
 -  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
+-  🍔 I love hamburger with fries🍟, stroganoff, wine🍷 & pasta🍝, coca cola🥤, swiss potato and pizza🍕.
 -  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
+-  💡 I want to become a great developer and be able to contribute innovations to people.
 
 <br/>
 
 
-## Tecnologias | Tools
+## Tecnologias e Ferramentas | Technologies and Tools < 🚀 | 🧰  >
 
 <img align="left" alt="prog" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/programming.png">
 <img align="left" alt="python" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/python.png">
