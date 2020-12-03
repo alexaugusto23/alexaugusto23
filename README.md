@@ -1,8 +1,8 @@
-# Hi I'm Alexsandro 👋
+# Olá eu sou Alexsandro | Hi I'm Alexsandro  👋
 
-## About me!
-<!--
--  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e atualmente estou cursando Análise e desenvolvimento de sistemas pela Faulcade Impacta de Tecnologia.
+## Sobre mim! | About me
+-  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e atualmente estou cursando Análise e desenvolvimento de sistemas pela Faulcade Impacta de Tecnologia. | 
+I am graduated in Administration with an MBA in strategic business management from FGV and I am currently studying Analysis and systems development by Faulcade Impacta de Tecnologia.
 -  🎓 Estou em transição de carreira para TI, em Desenvolvimento Fullstack.
 -  💼   Estou buscando minha primeira vaga como Dev.
 -  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
@@ -10,11 +10,11 @@
 -  ⚽ Em meu tempo livre gosto de jogar video game 🕹️, fazer exercícios 💪 e estudar 🧑🏻‍🏫.
 -  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
 -  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
--->
+
 <br/>
 
 
-## Tecnologias e Ferramentas
+## Tecnologias | Tools
 
 <img align="left" alt="prog" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/programming.png">
 <img align="left" alt="python" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/python.png">
@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-## Estatísticas
+## Estatísticas | Statistics
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=alexaugusto23&show_icons=true&theme=vue)
 
@@ -46,7 +46,7 @@
 <br/>
 
 
-## Redes Sociais
+## Redes Sociais | Social Media
 
 [<img align="left" alt="linkedin" width="40px" src="https://github.com/alexaugusto23/alexaugusto23/blob/main/imgs/linkedin.png/">][linkedin]
 
