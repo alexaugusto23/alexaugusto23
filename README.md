@@ -1,12 +1,10 @@
 # Olá eu sou Alexsandro | Hi I'm Alexsandro  👋
 
 ## 💬 Sobre mim! | About me
--  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e Análise e desenvolvimento de sistemas pela Faulcade Impacta de Tecnologia.
--  I am graduated in Administration with an MBA in strategic business management from FGV and Analysis and systems development by Faulcade Impacta de Tecnologia.
+-  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e Análise e desenvolvimento de sistemas pela Faculdade Impacta de Tecnologia.
+-  I am graduated in Administration with an MBA in strategic business management from FGV and Analysis and systems development by Faculdade Impacta de Tecnologia.
 -  🎓 Estou em transição de carreira para TI, em Desenvolvimento Fullstack.
 -  I'm in a career transition to IT, in Fullstack Development
--  💼   Estou buscando minha primeira vaga como Dev.
--  I'm looking for my first spot as Dev.
 -  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
 -  I am always learning something new related to technology.
 -  🌱 Eu adoro poder contribuir com a comunidade e meus colegas. 
