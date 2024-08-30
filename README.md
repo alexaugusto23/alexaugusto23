@@ -1,21 +1,12 @@
 # Olá eu sou Alexsandro | Hi I'm Alexsandro  👋
 
 ## 💬 Sobre mim! | About me
--  🎓 Sou formado em Administração com MBA em gestão estratégica de negócios pela FGV e Análise e desenvolvimento de sistemas pela Faculdade Impacta de Tecnologia.
--  I am graduated in Administration with an MBA in strategic business management from FGV and Analysis and systems development by Faculdade Impacta de Tecnologia.
--  🎓 Estou em transição de carreira para TI, em Desenvolvimento Fullstack.
--  I'm in a career transition to IT, in Fullstack Development
--  🚀 Eu Estou sempre aprendendo algo novo relacionado a tecnologia.
--  I am always learning something new related to technology.
--  🌱 Eu adoro poder contribuir com a comunidade e meus colegas. 
--  I love being able to contribute to the community and my colleagues.
--  ⚽ Em meu tempo livre gosto de jogar video game 🕹️, fazer exercícios 💪 e estudar 🧑🏻‍🏫.
--  In my free time I like to play video games ,️, exercise 💪 and study 🧑🏻‍🏫.
--  🍔 Adoro hamburguer com batatas fritas🍟, strogonoff, vinho🍷 & massas🍝, coca cola🥤, batata suiça e pizza🍕.
--  🍔 I love hamburger with fries🍟, stroganoff, wine🍷 & pasta🍝, coca cola🥤, swiss potato and pizza🍕.
--  💡 Quero me torna um grande desenvolvedor e poder contribuir com inovações para as pessoas.
--  💡 I want to become a great developer and be able to contribute innovations to people.
 
+Sou um profissional com formação em Administração de Empresas e um MBA em Gestão Estratégica de Serviços pela FGV, além de graduação em Análise e Desenvolvimento de Sistemas. Possuo uma sólida base em linguagens de programação, incluindo Python, SQL, HTML, CSS, Bootstrap, Java e GitHub, integração com API, BOT microsoft e conhecimento em metodologias ágeis e Scrum. Tenho conhecimento em levantamento de requisitos e indicadores, acompanhamento de evolução de projetos de dados e gerenciamento de entregas.
+<br>
+Tenho profundos conhecimentos sobre processos no setor bancário e ampla experiência no desenvolvimento de relatórios gerenciais, com domínio avançado no pacote Office, especialmente Excel (tabelas dinâmicas, gráficos e fórmulas avançadas e VBA intermediário ).
+<br>
+Minha vivência na área comercial me confere habilidades em negociações, precificação, retenção e captação de clientes, além de análise de crédito e orientação para investimentos.Sou capaz de gerenciar processos de resolução de reclamações de clientes com eficácia e tenho fluência em inglês avançado e espanhol intermediário.
 <br/>
 
 
